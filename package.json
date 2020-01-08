@@ -1,0 +1,25 @@
+{
+  "name": "react-router-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./",
+    "build": "gitbook build",
+    "init": "gitbook init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShanaMaid/react-router-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShanaMaid/react-router-tutorial/issues"
+  },
+  "homepage": "https://github.com/ShanaMaid/react-router-tutorial#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
