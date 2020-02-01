@@ -1,0 +1,12 @@
+{
+    "include": [
+        "./packages/*"
+    ],
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "jsx": "react"
+    }
+}

@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.pois,
+.dishes {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.pois,
+.dishes > div {
+  margin: 20px;
+}
+a{
+  margin-right: 10px;
+}
+.dishes > a {
+  margin: 20px;
+  display: block;
+}
+.pois > a {
+  margin: 10px;
+  display: block;
+}
+.dish-pic {
+  left: -1px;
+  top: -1px;
+  width: 93px;
+  height: 69px;
+  background-color: #ddd;
+}
+.dish {
+  text-align: left;
+}
+.dish .dish-img {
+  width: 93px;
+  height: 69px;
+}
