@@ -1,10 +1,10 @@
-import * as React from "react";
-import { RouteComponentProps } from "react-router";
-import { Link } from "react-router-dom";
-import useHookRoutes from "../hook-route";
-import poiDetail from "./poiDetail";
+import * as React from 'react';
+import { RouteComponentProps } from 'react-router';
+import { Link } from 'react-router-dom';
+import useHookRoutes from '../hook-route';
+import poiDetail from './poiDetail';
 const routes = {
-  "/detail": poiDetail
+  '/detail': poiDetail,
 };
 export default function(props: RouteComponentProps) {
   const detail = useHookRoutes(routes);

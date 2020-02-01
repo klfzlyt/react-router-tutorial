@@ -2,9 +2,11 @@
   "name": "root",
   "private": true,
   "dependencies": {
+    "antd": "^3.26.7",
     "history": "4.10.1",
     "invariant": "2.2.4",
     "lodash": "^4.17.15",
+    "query-string": "^6.10.1",
     "react": "16.8.4",
     "react-dom": "16.8.4",
     "react-router": "5.1.2",
@@ -13,6 +15,7 @@
     "tiny-invariant": "1.0.6"
   },
   "devDependencies": {
+    "@types/antd": "^1.0.0",
     "@types/react": "16.8.8",
     "@types/react-dom": "16.8.2",
     "@types/react-router": "5.1.1",
