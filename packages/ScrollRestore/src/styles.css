@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+a {
+  display: block;
+}
+a:nth-of-type(4) {
+  margin-bottom: 20px;
+  /* padding: 30px; */
+}
+
+h4 {
+  padding: 10px;
+  margin: 0;
+}
