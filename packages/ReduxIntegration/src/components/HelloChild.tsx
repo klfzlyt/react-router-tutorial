@@ -16,7 +16,7 @@ const HelloChild = ({ pathname, search, hash }: HelloChildProps) => (
       <li><Link to="/hello?color=Blue&size=40">with query string</Link></li>
       <li><Link to="/hello#lovelove">with hash</Link></li>
     </ul>
-    <div>通过state.router获取到路由信息:</div>
+    <div>通过state.router获取到路由地址信息:</div>
     <div>
       pathname: {pathname}
     </div>

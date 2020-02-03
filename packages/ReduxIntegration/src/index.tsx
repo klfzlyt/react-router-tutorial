@@ -1,3 +1,7 @@
+/* 
+  示例源自：
+  https://github.com/supasate/connected-react-router
+*/
 import { Provider } from 'react-redux'
 import React from 'react'
 import ReactDOM from 'react-dom'
