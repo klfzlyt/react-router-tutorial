@@ -6,7 +6,7 @@
     "connected-react-router": "^6.6.1",
     "history": "4.10.1",
     "invariant": "2.2.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.4",
     "mobx-react-router": "^4.1.0",
